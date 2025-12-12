@@ -4,6 +4,9 @@
 #include <fstream>
 #include <iostream>
 #include <map>
+#include <cryptopp/aes.h>
+#include <cryptopp/filters.h>
+#include <cryptopp/modes.h>
 
 inline std::map<char, std::string> encrypt = {{'a', "aslkd"}, {'b', "bslkj"}, {'c', "czuas"}, {'d', "dauza"}, {'e', "eiakl"}, {'f', "fnbsa"}, {'g', "goaus"}, {'h', "hmgna"}, {'i', "iaopw"}, {'j', "jiuaw"}, {'k', "kemas"}, {'l', "lmnas"}, {'m', "moaiw"}, {'n', "nahwq"}, {'o', "oopnq"}, {'p', "paswi"}, {'q', "quart"}, {'r', "rzaha"}, {'s', "spmsa"}, {'t', "taold"}, {'u', "usdsd"}, {'v', "vabsu"}, {'w', "watnd"}, {'x', "xakjd"}, {'y', "yuazs"}, {'z', "zomro"}, {'1', "apwsd"}, {'2', "kalsd"}, {'3', "assdv"}, {'4', "uhasd"}, {'5', "maljs"}, {'6', "axsdn"}, {'7', "mnasd"}, {'8', "jzauw"}, {'9', "uzqqa"}};
 
