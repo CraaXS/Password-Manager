@@ -1,4 +1,4 @@
-# Simple Password Manager with encryption in C++
+# 🔐 Simple Password Manager with encryption in C++
 
 ## Usage
 
