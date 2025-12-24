@@ -1,4 +1,5 @@
 # 🔐 Simple Password Manager with encryption in C++
+I've made this while learning C++ so it's not a good programm
 
 ## Usage
 
